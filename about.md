@@ -4,5 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Thomas, a Software Engineer and not yet replacable by AI, because I am capable of saying no :-)
+# Greetings, I am Thomas!
 
+I am a Software Engineer with a bias towards learning something new every day!
