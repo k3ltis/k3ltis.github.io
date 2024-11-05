@@ -20,12 +20,13 @@
 
 title: 
 author: Thomas Kliche
-email: info@tklic.de
+email: t10e@mailbox.org
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+# twitter_username:
 github_username: k3ltis
+linkedin_username: t10e
 header_pages:
   - blog.md
   - fluffy_whale.md
